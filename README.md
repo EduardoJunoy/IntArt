@@ -10,6 +10,8 @@
 
 **Autor/es: Eduardo Junoy y Jose Luis Capote**
 
+https://github.com/capo0703
+
 **Notas de prácticas:**
 
 P1: 9,17
