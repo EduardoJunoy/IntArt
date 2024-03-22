@@ -1,0 +1,20 @@
+Práctica 0: Python
+Introducción a Pyhton
+Todas las prácticas de programación en esta asignatura se realizarán en el lenguaje Python. Para aprenderlo, usaremos los siguientes recursos:
+(1) Tutorial de Berkeley
+El portal de Berkeley tiene un tutorial simple que cubre los conceptos básicos de Python y tiene como objetivo comprender el código del proyecto y poder programar lo que se solicita (https://inst.eecs.berkeley.edu/~cs188/fa20/project0/).
+
+En este tutorial, puedes saltarte las primeras secciones hasta llegar a la sección Python Basics.
+
+    Descarga el fichero python_basics.zip
+    para realizar el tutorial
+    Cuando lo hayas terminado, descarga elfichero tutorial.zip, realiza los ejercicios propuestos, y corrigelos con el autograder proporcionado, que es muy similar al que usáremos para la práctica 1.
+
+(2) Ejercicios de HackerRank
+HackerRank (https://www.hackerrank.com/) es una página web que ofrece ejercicios sobre los fundamentos de Python que son automáticamente corregidos. Sugerimos los siguientes ejercicios:
+
+    Loops: https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
+    Write a function: https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
+    Nested lists: 'https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true'
+    List comprehension: https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
+    find the Runner-Up score: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true 

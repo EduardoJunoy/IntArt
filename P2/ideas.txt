@@ -1,0 +1,30 @@
+IDEA NUMERO 1:              EL JUEGO DIVIDIDO EN PARTES
+
+    En base a los papers e investigaciones que he podido leer, el juego tiene un monton de estrategias que parecen ser interesantes
+    pero todas son mas/menos fuertes dependiendo de la etapa del juego en la que estemos. Mi idea principal es la de tratar al juego
+    como tres juegos diferentes.
+
+    OPENING:
+
+    podriamos decir que se trata de los 5/10 primeros movimientos d euna partida de reversi. En este primer intento de heuristica abordaremos
+    este estado del juego utilizando una estrategia de evaporización con control de fronteras. La idea general de este planteamiento es intentar
+    mantener a nuestro favor un numero minimo de fichas pero siempre manteniendo el control fronterizo. Esto es bueno porque nos permite mantener
+    control del tablero limitando los movimientos del enemigo
+
+    MIDGAME:
+
+    en esta etapa intentaremos seguir manteniendo el control de la movilidad del tablero pero priorizando el control de las esquinas (casillas seguras)
+    ya que estas no pueden ser robadas una vez posicionadas.
+
+    ENDGAME:
+
+    ya en este caso el control de la movilidad pasa a un segundo plano ya que el tablero esta "saturado" el objetivo se basara en crear casillas estables
+    construllendo al rededor de las esquinas que controlamos.
+
+
+
+    Veamos que a lo largo de todos estos puntos hay que tener en cuenta que si un movimiento hace que el rival no pueda mover mas (aunque tenga mas fichas)
+    este sera priorizado.
+
+
+                        CLAVES DE LA ESTRATEGIA: MOVILIDAD, CASILLAS ESTABLES, CONTROL FRONTERIZO
