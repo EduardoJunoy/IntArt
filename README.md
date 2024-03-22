@@ -1,4 +1,4 @@
-# AlgoryED
+# IntArt
 
 **Curso: 2023/2024**
 
